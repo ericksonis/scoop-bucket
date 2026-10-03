@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ericksonis/sshync/releases/download/v0.1.0/sshync_0.1.0_windows_amd64.zip",
+            "bin": [
+                "sshync.exe"
+            ],
+            "hash": "6628e685321f7a9076998171a590e56479e693eb60fd3b96297986010cbbbe12"
+        },
+        "arm64": {
+            "url": "https://github.com/ericksonis/sshync/releases/download/v0.1.0/sshync_0.1.0_windows_arm64.zip",
+            "bin": [
+                "sshync.exe"
+            ],
+            "hash": "339f7ddbb88101cb5d716dc10ed704440c96b2589ce24690b8642a8aecfb65ba"
+        }
+    },
+    "homepage": "https://github.com/ericksonis/sshync",
+    "license": "MIT",
+    "description": "Manage and sync your OpenSSH client config"
+}
